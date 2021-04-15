@@ -28,6 +28,8 @@ Other interests: Machine Learning, Django, Stonksss
 
 
 <!-- Social links -->
+---
+
 <p>
 <a href="https://www.linkedin.com/in/nicorenaldo/"><img height="30" src="https://github.com/nicorenaldo/nicorenaldo/blob/main/linkedin.png?raw=true"></a>
 </p>
