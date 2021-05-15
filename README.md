@@ -32,6 +32,6 @@ Check out my website : <a href="nicorenaldo.github.io">Link</a>
 ---
 
 <p>
-<a href="https://www.linkedin.com/in/nicorenaldo/">Linkedi</a>
-  <a href="https://www.kaggle.com/nicorenaldo">Kaggle</a>
+<a href="https://www.linkedin.com/in/nicorenaldo/">LinkedIn</a>
+<a href="https://www.kaggle.com/nicorenaldo" style="margin:10px;">Kaggle</a>
 </p>
