@@ -5,19 +5,18 @@
 
 
 <!-- About -->
-I'm a third year Electrical Engineering student at Universitas Gadjah Mada. I love making things with microcontrollers and RasPi to solve problems and learning new things along the way. Currently being part of the Bangkit Academy program.
+I'm a third year Electrical Engineering student at Universitas Gadjah Mada. I love making things with microcontrollers and Raspberry Pi to solve my everyday problems and learning new things along the way. Currently being part of the Bangkit Academy program.
 
-Other interests: Machine Learning, Django, Stonksss
-
+Other interests: Machine Learning, Django, Stonks
+Check out my website : <a href="nicorenaldo.github.io">Link</a>
 
 ### 🔧 Technologies & Tools
 
   ---
 
-- Arduino & ESP
-- Raspberry Pi
 - Tensorflow
 - Django
+- Arduino, ESP, Raspberry Pi
 
 
 ### ⚡ Hobbies
@@ -33,5 +32,6 @@ Other interests: Machine Learning, Django, Stonksss
 ---
 
 <p>
-<a href="https://www.linkedin.com/in/nicorenaldo/"><img height="30" src="https://github.com/nicorenaldo/nicorenaldo/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/nicorenaldo/">Linkedi</a>
+  <a href="https://www.kaggle.com/nicorenaldo">Kaggle</a>
 </p>
