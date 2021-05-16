@@ -34,5 +34,10 @@ Check out my website : <a href="nicorenaldo.github.io">Link</a>
 
 <p>
 <a href="https://www.linkedin.com/in/nicorenaldo/">LinkedIn</a>
+  <a>   </a>
 <a href="https://www.kaggle.com/nicorenaldo" style="margin:10px;">Kaggle</a>
+  <a>   </a>
+<a href="https://nicorenaldo.medium.com/" style="margin:10px;">Medium</a>
+  <a>   </a>
+<a href="nicorenaldo.github.io" style="margin:10px;">Portfolio Web</a>
 </p>
