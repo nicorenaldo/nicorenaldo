@@ -31,7 +31,8 @@ Check out my website : <a href="nicorenaldo.github.io">Link</a>
 
 ### Links Below
 ---
-[LinkedIn](https://www.linkedin.com/in/nicorenaldo/)
-[Kaggle](https://www.kaggle.com/nicorenaldo)
+[LinkedIn](https://www.linkedin.com/in/nicorenaldo/)    [Kaggle](https://www.kaggle.com/nicorenaldo)
+
 [Medium](https://nicorenaldo.medium.com/)
+
 [Portfolio Web](nicorenaldo.github.io)
