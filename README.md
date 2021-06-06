@@ -9,7 +9,7 @@ I'm a third year Electrical Engineering student at Universitas Gadjah Mada. I lo
 
 Other interests: Machine Learning, Django, Stonks
 
-Check out my website : <a href="nicorenaldo.github.io">Link</a>
+Check out my website : <a href="http://nicorenaldo.me/">Link</a>
 
 ### 🔧 Technologies & Tools
 
@@ -37,4 +37,4 @@ Check out my website : <a href="nicorenaldo.github.io">Link</a>
 
 [Medium](https://nicorenaldo.medium.com/)
 
-[Portfolio Web](nicorenaldo.github.io)
+[Portfolio Web](http://nicorenaldo.me/)
