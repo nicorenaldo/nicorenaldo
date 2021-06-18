@@ -1,3 +1,5 @@
+<img align='right' src = "https://github.com/nicorenaldo/github-stats-transparent/blob/output/generated/overview.svg">
+
 <!-- Greeting -->
 # 👋 Hello! Nico here
 
@@ -7,9 +9,19 @@
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{nicorenaldo}/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/nicorenaldo/github-stats-transparent/blob/output/generated/languages.svg">
+
+## 📃 Latest Projects
+
+<!-- BLOG-POST-LIST:START -->
+- [Jagawana : Illegal Logging Prevention System](https://nicorenaldo.me/project/jagawana/)
+- [AyoLomba!](https://nicorenaldo.me/project/ayolomba/)
+- [Sanyo Inventory System](https://nicorenaldo.me/project/sanyo-inventory/)
+- [Stock Watch](https://nicorenaldo.me/project/stock-watch/)
+
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
 
