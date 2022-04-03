@@ -16,11 +16,7 @@
 ## 📃 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Jagawana : Illegal Logging Prevention System](https://nicorenaldo.me/project/jagawana/)
-- [AyoLomba!](https://nicorenaldo.me/project/ayolomba/)
-- [Sanyo Inventory System](https://nicorenaldo.me/project/sanyo-inventory/)
-- [Stock Watch](https://nicorenaldo.me/project/stock-watch/)
-
+To be added
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
